@@ -126,4 +126,6 @@ make
 | `ft_lstiter`      | Apply function to the content of all list elements. |
 | `ft_lstmap`       | Apply function to the content of all list elements into a new list. |
 
+## NORMINETTE
+> At 42 School, it is expected that almost every project is written following the Norm, which is the coding standard of the school.
 
