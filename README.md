@@ -126,21 +126,4 @@ make
 | `ft_lstiter`      | Apply function to the content of all list elements. |
 | `ft_lstmap`       | Apply function to the content of all list elements into a new list. |
 
-## NORMINETTE
-> At 42 School, it is expected that almost every project is written following the Norm, which is the coding standard of the school.
-```
-- No for, do...while, switch, case, goto, ternary operators, or variable-length arrays allowed;
-- Each function must be a maximum of 25 lines, not counting the function's curly brackets;
-- Each line must be at most 80 columns wide, with comments included;
-- A function can take 4 named parameters maximum;
-- No assigns and declarations in the same line (unless static);
-- You can't declare more than 5 variables per function;
-- ...
-```
-* [42 Norms](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) - Information about 42 code norms. `PDF`
-* [Norminette](https://github.com/42School/norminette) - Tool to respect the code norm, made by 42. `GitHub`
-* [42 Header](https://github.com/42Paris/42header) - 42 header for Vim. `GitHub`
-## LICENSE
-<p>
-This work is published under the terms of <a href="https://github.com/jotavare/libft/blob/main/LICENSE">Unlicense</a>.
-</p>
+
