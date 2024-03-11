@@ -1,6 +1,6 @@
 libft
 <p align="center">
-  <img src="https://github.com/mazen-tech/42-banner.git">
+  <img src="https://github.com/mazen-tech/42-banner/blob/main/photo1710117289.jpeg">
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
