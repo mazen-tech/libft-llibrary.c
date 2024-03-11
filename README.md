@@ -29,11 +29,11 @@ If you're a 42 student, it's highly recommended that you go through the process 
 ## HOW TO USE
 #### 1º - Clone the repository
 ```bash
-git clone git@github.com:jotavare/libft.git
+git clone https://github.com/mazen-tech/libft-llibrary.c.git
 ## HOW TO USE
 #### 1º - Clone the repository
 ```bash
-git clone git@github.com:jotavare/libft.git
+git clone https://github.com/mazen-tech/libft-llibrary.c.git
 ```
 #### 2º - Enter the project folder and run `make`
 ```bash
