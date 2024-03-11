@@ -106,25 +106,7 @@ make
 | `ft_putnbr_fd`  | Output integer to the given file. |
 
 ## BONUS
-> The bonus functions in libft are focused on list manipulation and are worth an additional 25 towards the final grade. To achieve a **grade of 125**, **all 9 bonus functions and 34 mandatory functions** must be completed accurately.
-| Function | Description |
-| :- | :- |
-| `ft_lstnew`       | Create new list. |
-| `ft_lstadd_front` | Add new element at beginning of list. |
-| `ft_lstadd_back`  | Add new element at end of list. |
-| `ft_lstadd_front` | Add a new element at the beginning of the list. |
-| `ft_lstadd_back`  | Add a new element at the end of the list. |
-| `ft_lstsize`      | Count elements of a list. |
-| `ft_lstlast`      | Find last element of list. |
-| `ft_lstdelone`    | Delete element from list. |
-| `ft_lstclear`     | Delete sequence of elements of list from a starting point. |
-| `ft_lstiter`      | Apply function to content of all list's elements. |
-| `ft_lstmap`       | Apply function to content of all list's elements into new list. |
-| `ft_lstlast`      | Find the last element of the list. |
-| `ft_lstdelone`    | Delete element from the list. |
-| `ft_lstclear`     | Delete the sequence of elements of the list from a starting point. |
-| `ft_lstiter`      | Apply function to the content of all list elements. |
-| `ft_lstmap`       | Apply function to the content of all list elements into a new list. |
+The bonus part in not included in my repo 
 
 ## NORMINETTE
 > At 42 School, it is expected that almost every project is written following the Norm, which is the coding standard of the school.
