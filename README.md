@@ -1,20 +1,12 @@
 libft
 <p align="center">
-  <img src="https://github.com/mazen-tech/42-banner/blob/main/photo1710117289.jpeg">
+  <img src="https://github.com/mazen-tech/42-banner/blob/main/libft1710117289.jpeg">
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
 	<a href='https://www.linkedin.com/in/mazen-tarek-2b2275296/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+        <a href='https://profile.intra.42.fr/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Warsaw-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 
-</p>
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#how-to-use">How to use</a> •
-	<a href="#mandatory">Mandatory</a> •
-	<a href="#bonus">Bonus</a> •
-	<a href="#norminette">Norminette</a> •
-	<a href="#license">License</a>
-</p>
 ## ABOUT
 The first project at 42, libft, involves learning how the standard functions of C programming work by writing them from scratch and creating a personal library. This project is vital as the library will be used in future assignments at 42.
 
